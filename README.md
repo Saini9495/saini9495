@@ -1,43 +1,61 @@
-<h1>Rishabh Saini</h1>
-About Skills Education Contact
+# 👋 Hi, I'm Rishabh Saini
 
-<h1>Hi, I'm Rishabh Saini</h1>
-A passionate learner who builds clean and user-friendly websites using HTML and CSS. Currently started to learn basics of DevOps.
+💻 **A passionate learner & aspiring DevOps engineer**  
+I build **clean and user-friendly websites** using **HTML & CSS** and I’ve recently started learning the **basics of DevOps** 🚀
 
-<h1>About Me</h1>
-I am a self-motivated learner currently focusing on Git/GitHub. I enjoy learning new technologies and improving my skills by building real-world projects.
+---
 
-<h1>My Skills</h1>
-HTML
-CSS
-Git
-GitHub
+## 🙋‍♂️ About Me
 
-<h1>Education</h1>
-<h2>Bachelor’s Degree</h2>
-Bachelor’s In Computer Application (BCA)
-<h3>College</h3>
-Chandigarh Group Of Technology
-2021 – 2024
+- 🔥 Self-motivated learner
+- 🌱 Currently focusing on **Git & GitHub**
+- 🛠️ Love building **real-world projects**
+- 📚 Always curious to learn new technologies
 
-<h2>Master's Degree</h2>
-Master's In Compuetr Application (MCA)
-<h3>College</h3>
-Chandigarh University 
-2024 - ongoing
+---
 
-<h2>Senior Secondary (12th)</h2>
-CBSE / State Board
-<h3>School</h3>
-Amravati Vidayalaya
-2020 - 2021
+## 🧠 Skills
 
-<h2>Contact Me</h2>
-<h3>Email</h3>
-sainirishab394@gmail.com
-<h3>Contact No.</h3>
-+91 9466169584, +91 8307818589
-<h3>GitHUB</h3>
-https://github.com/Saini9495
+- 🌐 **HTML**
+- 🎨 **CSS**
+- 🔧 **Git**
+- 🐙 **GitHub**
 
-@ 2026 Rishabh Saini | My Portfolio
+---
+
+## 🎓 Education
+
+### 🎓 Master’s Degree  
+**Master’s in Computer Application (MCA)**  
+📍 *Chandigarh Group Of Technology*  
+📆 **2024 – Ongoing**
+
+---
+
+### 🎓 Bachelor’s Degree  
+**Bachelor’s in Computer Application (BCA)**  
+📍 *Chandigarh Group Of Technology*  
+📆 **2021 – 2024**
+
+---
+
+### 🏫 Senior Secondary (12th)  
+**CBSE / State Board**  
+📆 **2020 – 2021**
+
+---
+
+## 📫 Contact Me
+
+- 📧 **Email:** [sainirishab394@gmail.com](mailto:sainirishab394@gmail.com)
+- 📱 **Phone:**  
+  - +91 94661 69584  
+  - +91 83078 18589
+- 💻 **GitHub:** [github.com/Saini9495](https://github.com/Saini9495)
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*  
+💙 Feel free to explore my repositories and connect with me.
+
+---

@@ -1,9 +1,10 @@
-Rishabh Saini
+<h1>Rishabh Saini</h1>
 About Skills Education Contact
-Hi, I'm Rishabh Saini
+
+<h1>Hi, I'm Rishabh Saini</h1>
 A passionate learner who builds clean and user-friendly websites using HTML and CSS. Currently started to learn basics of DevOps.
 
-About Me
+<h1>About Me</h1>
 I am a self-motivated learner currently focusing on Git/GitHub. I enjoy learning new technologies and improving my skills by building real-world projects.
 
 My Skills

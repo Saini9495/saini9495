@@ -29,12 +29,12 @@
 # ⚙️ DevOps Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,bash,aws,vscode,githubactions,ubuntu,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,aws,vscode,githubactions,ubuntu,vercel,netlify" />
 </p>
 
 ---
 
-## 🧰 Technologies I Use
+## 🧰 Technologies & Platforms
 
 <p align="center">
 
@@ -46,8 +46,9 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
 </p>
 
@@ -63,8 +64,8 @@ Learning:
   - Kubernetes
   - Jenkins Automation
   - CI/CD Pipelines
-  - Linux Administration
   - GitHub Actions
+  - Cloud Deployment Platforms
 ```
 
 ---

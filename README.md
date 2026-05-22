@@ -2,15 +2,19 @@
 
 <h3 align="center">🚀 Aspiring DevOps Engineer | Cloud & Automation Learner</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Enthusiast;AWS+Cloud+Learner;Docker+%7C+Kubernetes+%7C+Jenkins;CI%2FCD+Pipeline+Explorer" />
+</p>
+
 ---
 
 ## 💫 About Me
 
-💻 Passionate about building and managing modern infrastructure  
-🚀 Currently learning **DevOps & Cloud Technologies**  
-☁️ Exploring **AWS Cloud Services**  
-🛠️ Interested in **CI/CD, Automation, Containers & Kubernetes**  
-📚 Always learning new technologies and building real-world projects  
+💻 Passionate about modern infrastructure, automation & cloud technologies  
+🚀 Currently learning **DevOps Engineering & AWS Cloud**  
+☁️ Exploring cloud-native tools and CI/CD workflows  
+🛠️ Interested in **Docker, Kubernetes, Jenkins & Automation**  
+📚 Continuously building real-world DevOps projects  
 
 ---
 
@@ -22,25 +26,46 @@
 
 ---
 
-## ⚙️ DevOps Skills & Tools
+# ⚙️ DevOps Skills & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,bash,aws,vscode,githubactions" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,bash,aws,vscode,githubactions,ubuntu,nginx" />
 </p>
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Technologies I Use
 
-- 🔧 Git & GitHub  
-- 🐳 Docker  
-- ☸️ Kubernetes  
-- 🤖 Jenkins  
-- ⚡ GitHub Actions  
-- 🐧 Linux  
-- ☁️ AWS (Learning)  
-- 📜 Bash Scripting  
-- 🛠️ CI/CD Pipelines  
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+</p>
+
+---
+
+## 📈 Current Learning Journey
+
+```yaml
+Learning:
+  - DevOps Fundamentals
+  - AWS Cloud
+  - Docker & Containerization
+  - Kubernetes
+  - Jenkins Automation
+  - CI/CD Pipelines
+  - Linux Administration
+  - GitHub Actions
+```
 
 ---
 
@@ -59,25 +84,38 @@
 
 ---
 
-## 📈 Current Learning Journey
+# 🤝 Connect With Me
 
-```yaml
-Learning:
-  - DevOps Fundamentals
-  - AWS Cloud
-  - Kubernetes
-  - CI/CD Pipelines
-  - Docker & Containerization
-  - Linux Administration
+<p align="center">
 
-🤝 Connect With Me
-<p align="left"> <a href="mailto:sainirishab394@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/rishabh-saini-bba5b130b"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Saini9495"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+<a href="mailto:sainirishab394@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/rishabh-saini-bba5b130b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🚀 DevOps Mindset
+<a href="https://github.com/Saini9495">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-“Automation is not about replacing people, it's about empowering them.”
+</p>
+
+---
+
+## 🚀 DevOps Mindset
+
+<p align="center">
+  
+> "Automation is not about replacing people, it's about empowering them."
+
+</p>
+
+---
 
 <div align="center">
-💙 Feel free to explore my repositories and connect with me.
-</div> ```
+
+### 💙 Feel free to explore my repositories and connect with me.
+
+</div>
